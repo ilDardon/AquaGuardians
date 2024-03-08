@@ -1,4 +1,4 @@
 # AquaGuardians
-Aplicacion hackaton 2024 UNACH - equipo Axolotls
+Aplicacion hackathon 2024 UNACH - equipo Axolotls
 
 :)
